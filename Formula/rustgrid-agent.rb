@@ -1,8 +1,8 @@
 class RustgridAgent < Formula
   desc "Run Codex against RustGrid tickets and publish GitHub pull requests"
   homepage "https://github.com/RustGrid/rustgrid-agent"
-  url "https://github.com/RustGrid/rustgrid-agent/releases/download/v1.4.25/rustgrid-agent-1.4.25.crate"
-  sha256 "3d73fc9f211f9437b429320a6be3ea5190ab7abbae3d95b66e2ba60db8d2e171"
+  url "https://github.com/RustGrid/rustgrid-agent/releases/download/v1.4.26/rustgrid-agent-1.4.26.crate"
+  sha256 "f00524f42e5bf1b52139478430fd8cd1ba76cd07f9040a51207dc86b92a045ec"
   license "MIT"
 
   depends_on "rust" => :build
